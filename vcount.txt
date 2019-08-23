@@ -1,0 +1,21 @@
+
+a : 3
+Positions:  12  23  33  
+e : 4
+Positions:  2  14  29  43  
+i : 1
+Positions:  27  
+o : 4
+Positions:  5  9  17  38  
+u : 2
+Positions:  18  39  
+A : 0
+Positions:  
+E : 0
+Positions:  
+I : 1
+Positions:  21  
+O : 0
+Positions:  
+U : 0
+Positions:  
